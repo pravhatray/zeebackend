@@ -1,0 +1,7 @@
+
+Welcome to the backend of Apna Tv App
+=> for fetching Popular Movies from backend use /popularmovies
+=> for fetching Toprated Movies from backend use /topratedmovies
+=> for fetching Upcoming Movies from backend use /upcomingmovies
+=> for login use /login
+=> for signup use /register
